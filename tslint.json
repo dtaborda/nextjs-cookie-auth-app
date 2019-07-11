@@ -1,0 +1,22 @@
+{
+  "rules": {
+    "interface-name": false,
+    "variable-name": false,
+    "no-submodule-imports": false,
+    "no-empty-interface": false,
+    "interface-over-type-literal": false,
+    "object-literal-sort-keys": false,
+    "member-access": false,
+    "import-name": false,
+    "no-consecutive-blank-lines": true,
+    "no-console": {
+      "severity": "warning",
+      "options": ["debug", "info", "log", "time", "timeEnd", "trace"]
+    }
+  },
+  "extends": [
+    "tslint:latest",
+    "tslint-config-prettier",
+    "tslint-config-airbnb"
+  ]
+}

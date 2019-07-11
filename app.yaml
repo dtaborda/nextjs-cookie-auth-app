@@ -1,0 +1,7 @@
+runtime: nodejs10
+# gcloud --project vksur-243321 app deploy app.yaml
+# what follows will be optional in the future:
+service: default
+handlers:
+- url: /.*
+  script: auto
