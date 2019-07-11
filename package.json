@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "gcp-build": "next build && tsc --project tsconfig.server.json",
-    "start": "node build/production-server/index.js",
+    "start": "node build/production-server/server/index.js",
     "build": "next build && tsc --project tsconfig.server.json",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
