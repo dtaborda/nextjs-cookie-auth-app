@@ -25,3 +25,6 @@ $ yarn build
 $ yarn start
 ```
 Point browser to http://localhost:3000. This will set up the dev mode.
+
+### Live demo
+https://sigsense-challenge.herokuapp.com/
