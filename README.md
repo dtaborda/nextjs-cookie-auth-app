@@ -5,7 +5,7 @@
  - [next@8](https://github.com/zeit/next.js)
  - [react@16](https://github.com/facebook/react)
  - [typescript](https://github.com/Microsoft/TypeScript)
- - [Jest](https://github.com/facebook/jest)
+ - [material iu](https://material-ui.com/)
  - [express](https://github.com/expressjs/express)
 
 ### Installation
